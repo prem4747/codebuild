@@ -1,0 +1,14 @@
+2020-12-19T21:05:33.816+05:30 INFO  [main] justiceleague-tracker JusticeLeagueTrackerControllerTest: Starting JusticeLeagueTrackerControllerTest on kali with PID 6989 (started by root in /root/justicealeague-tracker)
+2020-12-19T21:05:33.817+05:30 INFO  [main] justiceleague-tracker JusticeLeagueTrackerControllerTest: The following profiles are active: test
+2020-12-19T21:05:36.346+05:30 INFO  [main] justiceleague-tracker JusticeLeagueTrackerControllerTest: Started JusticeLeagueTrackerControllerTest in 3.451 seconds (JVM running for 4.827)
+2020-12-19T21:05:36.777+05:30 INFO  [main] justiceleague-tracker JusticeLeagueTrackerController: Received a request to retrive the justice league
+2020-12-19T21:05:36.778+05:30 INFO  [main] justiceleague-tracker JusticeLeagueService: Received a request to get all the justice league members
+2020-12-19T21:16:58.480+05:30 INFO  [main] justiceleague-tracker JusticeLeagueTrackerApplication: Starting JusticeLeagueTrackerApplication v0.0.1-SNAPSHOT on kali with PID 7557 (/root/justicealeague-tracker/target/justiceleague-tracker-0.0.1-SNAPSHOT.jar started by root in /root/justicealeague-tracker)
+2020-12-19T21:16:58.486+05:30 INFO  [main] justiceleague-tracker JusticeLeagueTrackerApplication: The following profiles are active: dev
+2020-12-19T21:17:01.310+05:30 INFO  [main] justiceleague-tracker JusticeLeagueTrackerApplication: Started JusticeLeagueTrackerApplication in 3.897 seconds (JVM running for 4.438)
+2020-12-19T21:22:04.973+05:30 INFO  [main] justiceleague-tracker JusticeLeagueTrackerApplication: Starting JusticeLeagueTrackerApplication v0.0.1-SNAPSHOT on kali with PID 7611 (/root/justicealeague-tracker/target/justiceleague-tracker-0.0.1-SNAPSHOT.jar started by root in /root/justicealeague-tracker)
+2020-12-19T21:22:04.987+05:30 INFO  [main] justiceleague-tracker JusticeLeagueTrackerApplication: The following profiles are active: dev
+2020-12-19T21:22:07.577+05:30 INFO  [main] justiceleague-tracker JusticeLeagueTrackerApplication: Started JusticeLeagueTrackerApplication in 3.695 seconds (JVM running for 4.242)
+2020-12-19T21:28:37.798+05:30 INFO  [main] justiceleague-tracker JusticeLeagueTrackerApplication: Starting JusticeLeagueTrackerApplication v0.0.1-SNAPSHOT on kali with PID 8282 (/root/justicealeague-tracker/target/justiceleague-tracker-0.0.1-SNAPSHOT.jar started by root in /root/justicealeague-tracker)
+2020-12-19T21:28:37.813+05:30 INFO  [main] justiceleague-tracker JusticeLeagueTrackerApplication: The following profiles are active: dev
+2020-12-19T21:28:40.139+05:30 INFO  [main] justiceleague-tracker JusticeLeagueTrackerApplication: Started JusticeLeagueTrackerApplication in 3.431 seconds (JVM running for 3.975)
